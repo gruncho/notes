@@ -6,4 +6,4 @@ Notas y enlaces
 * [Libro de recetas](/cookbook/index.md)
 * [Raspberry Pi](/raspberrypi/index.md)
 * [Recursos, plugins y servicios para Sketch](/sketch/index.md)
-* [Mac OS](/macos/index.md)
+* [Mac OS](/mac/index.md)
