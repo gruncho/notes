@@ -8,28 +8,35 @@ Copypaste notas mikel:
 git pull origin master --rebase
 ```
 
-// Revertir cambios en un fichero
+## Revertir cambios en un fichero
+
 ```
 git checkout -- component.html.twig
 ```
 
-// Eliminar rama en local
+## Eliminar rama en local
+
 ```
 git branch -D fix/variant-selector 
 ```
 
-// Revertir último commit (no pusheado).
+## Revertir último commit (no pusheado)
+
 ```
 git reset --soft HEAD^
 ```
 (--soft devuelve los cambios al stage)
 (--hard se calza los cambios)
 
-// Se pueden revertir múltiples commits con HEAD~n (donde n es el número de commits a revertir). Mejor tirar el comando previo múltiples veces...
+Se pueden revertir múltiples commits con HEAD~n (donde n es el número de commits a revertir). Mejor tirar el comando previo múltiples veces...
 
 
-// Rebase en la rama (metemos los cambios de master, por ejemplo, en la rama feature/component)
-(importante tener la rama, en este caso master, actualizada)
+## Rebase en la rama 
+
+Metemos los cambios de master, por ejemplo, en la rama feature/component.
+
+Importante tener la rama, en este caso master, actualizada)
+
 ```
 git checkout master
 git pull origin master --rebase
@@ -44,7 +51,8 @@ git rebase master
 git push origin feature/componente -f
 ```
 
-// Corregir mensaje del commit
+## Corregir mensaje del commit
+
 ```
 git commit "mensaje nuevo" --amend
 ```
