@@ -48,3 +48,7 @@ git push origin feature/componente -f
 ```
 git commit "mensaje nuevo" --amend
 ```
+
+## Otros recursos
+
+· [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else)
