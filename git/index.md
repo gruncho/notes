@@ -1,8 +1,8 @@
-****************************** GIT ******************************
+# Git
 
-// copypaste notas mikel:
+Copypaste notas mikel:
 
-// Actualizar rama. Pull + rebase
+## Actualizar rama. Pull + rebase
 
 ```
 git pull origin master --rebase
