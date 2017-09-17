@@ -11,4 +11,4 @@ Recursos y añadidos para el programa [Sketch](https://www.sketchapp.com/)
 * [Generates web gradients with CSS and Sketch exports](https://www.grabient.com)
 * [Artboard Manager](https://github.com/bomberstudios/artboard-manager)
 * [Sketch image compressor](https://github.com/BohemianCoding/sketch-image-compressor)
-* [Zeplin](https://support.zeplin.io/sketch-integration/installing-sketch-plugi
+* [Zeplin](https://zeplin.io/)
