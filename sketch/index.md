@@ -9,3 +9,6 @@ Recursos y añadidos para el programa [Sketch](https://www.sketchapp.com/)
 * [Flag sketch (github)](https://github.com/madebybowtie/FlagKit)
 * [100+ Best Sketch Plugins for Designers & Developers](https://cssauthor.com/sketch-plugins/)
 * [Generates web gradients with CSS and Sketch exports](https://www.grabient.com)
+* [Artboard Manager](https://github.com/bomberstudios/artboard-manager)
+* [Sketch image compressor](https://github.com/BohemianCoding/sketch-image-compressor)
+* [Zeplin](https://support.zeplin.io/sketch-integration/installing-sketch-plugi
