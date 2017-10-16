@@ -2,6 +2,12 @@
 
 Copypaste notas mikel:
 
+## Email git
+
+```
+$ git config --global user.email "email@example.com"
+```
+
 ## Actualizar rama. Pull + rebase
 
 ```
