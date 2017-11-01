@@ -1,6 +1,6 @@
 # Enlaces para Sketch
 
-Recursos y añadidos para el programa [Sketch](https://www.sketchapp.com/)
+Recursos y añadidos para [Sketch](https://www.sketchapp.com/)
 
 * [A list of Keyboard Shortcuts for Sketch App](http://sketchshortcuts.com/)
 * [Plugin ImageOptim](https://imageoptim.com/sketch)
