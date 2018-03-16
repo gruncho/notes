@@ -12,3 +12,5 @@ Notas y enlaces
 Otros:
 
 * [RoboFont is a UFO based, mac only, font editor](http://doc.robofont.com/)
+* [UX/UI proposal for Inkscape](http://piweek.github.io/rethinkscape/)
+* [The open-source solution for design and prototyping](https://www.uxbox.io/)
