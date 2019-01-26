@@ -1,1 +1,0 @@
-# Recursos para Mac OS
